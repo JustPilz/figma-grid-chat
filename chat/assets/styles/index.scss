@@ -147,6 +147,13 @@ html {
             }
         }
     }
+}
 
 
+@media (max-width: 480px) {
+    .chat__day-separator {
+        &:before, &:after {
+            width: 35%;
+        }
+    }
 }
