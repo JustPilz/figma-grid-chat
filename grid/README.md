@@ -1,6 +1,7 @@
 Figma Grid
 ===========
-
+## Start
+Open `dist/index.html` in a browser.
 ## Setup
 Install dependencies
 ```sh
